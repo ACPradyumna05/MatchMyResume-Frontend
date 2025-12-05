@@ -6,7 +6,7 @@ import LandingPage from "./components/pages/Landing.jsx";
 import LoginPage from "./components/pages/Login";
 import SignupPage from "./components/pages/SignUp";
 import VerifyEmail from "./components/auth/VerifyEmail";
-import Navbar from "./components/layout/Navbar"; // create this if you haven't
+import Navbar from "./components/layout/Navbar"; 
 import App from "./App";
 import { getToken } from "./lib/api";
 
